@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /login.html
+Disallow: /account.html
+
+
+User-agent: Yandex
+Disallow: /login.html
+Disallow: /account.html
+Clean-param: utm_source&utm_medium&utm_campaign
+
+Sitemap: https://example.com/sitemap.xml
